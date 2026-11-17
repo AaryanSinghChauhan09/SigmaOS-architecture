@@ -3,7 +3,7 @@ name = "SigmaOS-architecture"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "architecture component"
+description = "Architecture documentation: system design, layer model, IPC, security model"
 upstream = []
 
 [contract]
